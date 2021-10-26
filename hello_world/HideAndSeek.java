@@ -10,3 +10,6 @@ public class HideAndSeek {
 
 // System.out.println prints the string on a new line - system output print line 
 // System.out.print prints string on same line 
+
+// Curly braces mark the scope of our classes and methods. 
+// There are no semicolons at the end of a curly brace.
