@@ -1,6 +1,7 @@
 {
   "java.project.sourcePaths": [
     "hello_world",
-    "variables"
+    "variables",
+    "."
   ]
 }
