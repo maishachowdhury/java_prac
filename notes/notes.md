@@ -10,3 +10,9 @@ Instance methods first make instances of that class. Once you make an instance
 for example my_account = BankAccount.new you can use the methods from that instance.
 So for example, my_account.check_balance This will check the balance of that specific
 instance of that bank account. The method would give you the balance of my_account. 
+
+
+The way code runs (Java)...
+
+Code generally runs in a top-down order where code execution starts at the top of a program and ends at the bottom of a program; however, methods are ignored by the compiler unless they are being called.
+
